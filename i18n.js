@@ -265,16 +265,16 @@ const translations = {
     es: 'Nombre Completo'
   },
   contact_form_name_placeholder: {
-    en: 'John Smith',
-    es: 'Juan Pérez'
+    en: 'Kevin Rivera',
+    es: 'Kevin Rivera'
   },
   contact_form_email_label: {
     en: 'Email Address',
     es: 'Correo Electrónico'
   },
   contact_form_email_placeholder: {
-    en: 'john@company.com',
-    es: 'juan@empresa.com'
+    en: 'kevin@gmail.com',
+    es: 'kevin@gmail.com'
   },
   contact_form_message_label: {
     en: 'Your Message',
